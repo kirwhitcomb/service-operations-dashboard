@@ -2,6 +2,8 @@
 
 A React and TypeScript dashboard I built to apply the client operations and reporting skills I developed in my previous role. I used my experience tracking client escalations, cancellations, support requests, and customer feedback to choose the metrics and create a simplified dashboard with fictional sample data.
 
+[Live Demo](https://service-operations-dashboard.pages.dev/)
+
 ## Features
 
 - Filter, search, and sort sample service records
